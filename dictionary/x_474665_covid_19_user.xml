@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="user" max_length="40" name="x_474665_covid_19_user" type="collection">
+        <element label="age" max_length="5" name="age" type="integer"/>
+        <element label="location" max_length="100" name="location" type="string"/>
+        <element label="name" max_length="100" name="name" type="string"/>
+        <element default="0000" label="User ID" max_length="20" name="user_id" type="integer"/>
+    </element>
+</database>

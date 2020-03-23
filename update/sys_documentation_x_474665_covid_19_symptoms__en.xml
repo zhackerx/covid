@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="symptoms" language="en" table="x_474665_covid_19_symptoms">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>symptoms</label>
+            <language>en</language>
+            <name>x_474665_covid_19_symptoms</name>
+            <plural>symptoms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-22 08:28:58</sys_created_on>
+            <sys_id>e91f5ec02ffb001000b3811df699b6b1</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>symptoms</sys_name>
+            <sys_package display_value="covid_19" source="x_474665_covid_19">327ed2802ffb001000b3811df699b652</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="covid_19">327ed2802ffb001000b3811df699b652</sys_scope>
+            <sys_update_name>sys_documentation_x_474665_covid_19_symptoms__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-22 08:39:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

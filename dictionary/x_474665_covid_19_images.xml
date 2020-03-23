@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Images" max_length="40" name="x_474665_covid_19_images" type="collection">
+        <element default="0000000" label="Image ID" max_length="20" name="image_id" type="integer"/>
+        <element label="Lungs img" max_length="40" name="lungs_img" type="user_image"/>
+        <element label="Nasal img" max_length="40" name="nasal_img" type="user_image"/>
+        <element label="Throat img" max_length="40" name="throat_img" type="user_image"/>
+        <element default="0000" label="User ID" max_length="20" name="user_id" type="glide_list"/>
+    </element>
+</database>

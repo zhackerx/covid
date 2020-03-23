@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="country" max_length="40" name="x_474665_covid_19_country" type="collection">
+        <element default="0000" label="Country code" max_length="20" name="country_code" type="integer"/>
+        <element label="location" max_length="40" name="location" type="string"/>
+        <element label="Recovered cases" max_length="40" name="revored_cases" type="integer"/>
+        <element label="Total cases" max_length="40" name="total_cases" type="integer"/>
+        <element label="Total deaths" max_length="40" name="total_deaths" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-22 08:28:57</sys_created_on>
+        <sys_id>d91f5ec02ffb001000b3811df699b69c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_474665_covid_19_symptoms.x_474665_covid_19.symptoms_user</sys_name>
+        <sys_package display_value="covid_19" source="x_474665_covid_19">327ed2802ffb001000b3811df699b652</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="covid_19">327ed2802ffb001000b3811df699b652</sys_scope>
+        <sys_security_acl display_value="x_474665_covid_19_symptoms">111f5ec02ffb001000b3811df699b69a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d91f5ec02ffb001000b3811df699b69c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-22 08:28:57</sys_updated_on>
+        <sys_user_role display_value="x_474665_covid_19.symptoms_user" name="x_474665_covid_19.symptoms_user">411fd60c2fbb001000b3811df699b604</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="symptoms" max_length="40" name="x_474665_covid_19_symptoms" type="collection">
+        <element default="000000" display="true" label="Symptom ID" mandatory="true" max_length="50" name="symptom_id" type="integer"/>
+        <element label="Symptom Name" max_length="100" name="symptom_name" type="string"/>
+    </element>
+</database>
